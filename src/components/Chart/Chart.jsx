@@ -15,9 +15,7 @@ export const Chart = (props) => {
     return (
     <VictoryChart
         domainPadding={20}>
-        <VictoryAxis
-          tickFormat={["Precincts"]}
-        />
+
         <VictoryAxis
           dependentAxis
           tickFormat={(y) => (y)}
