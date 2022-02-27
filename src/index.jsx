@@ -9,7 +9,7 @@ import reportWebVitals from './reportWebVitals';
 ReactDOM.render(
   <React.StrictMode>
     <ChakraProvider>
-      <Container>
+      <Container maxW='container.xl'>
         <Stack>
           <App />
         </Stack>
