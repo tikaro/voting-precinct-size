@@ -9,9 +9,7 @@ I plan to use [VictoryChart](https://formidable.com/open-source/victory/docs/vic
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Deployment
-This site is deployed via [Netlify](https://www.netlify.app) to [voting-precinct-size.netlify.app](https://voting-precinct-size.netlify.app).
-
-The current status is [![Netlify Status](https://api.netlify.com/api/v1/badges/727b2609-04f9-4191-a840-2a7a2de3d67b/deploy-status)](https://app.netlify.com/sites/voting-precinct-size/deploys)
+This site ~is~ was deployed via [Netlify](https://www.netlify.app) to [voting-precinct-size.netlify.app](https://voting-precinct-size.netlify.app), but the builds were stopped in April 2022.
 
 ## Available Scripts
 
